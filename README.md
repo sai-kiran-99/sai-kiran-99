@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=535&lines=Hi+%F0%9F%91%8B+I'm+Sai+Kiran+Madala;Frontend+Software+Engineer;Building+Impactful+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=535&lines=Hi+%F0%9F%91%8B+I'm+Sai+Kiran+Madala;Frontend+Software+Engineer;" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -14,7 +14,8 @@
 ## 💼 Professional Journey
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Frontend+Software+Engineer+%40+Unacademy;Jan+2025+-+Present" alt="Current Role"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=  
+   Frontend+Software+Engineer+%40+Unacademy ;Jan+2025+-+Present" alt="Current Role"/>
 </div>
 
 <div align="center">
