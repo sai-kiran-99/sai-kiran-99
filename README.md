@@ -17,27 +17,28 @@
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" alt="coding-gif">
 </div>
 
-```js
-const journey = {
-  current: {
-    role: "Frontend Software Engineer",
-    company: "Unacademy",
-    period: "Jan 2025 - Present"
-  },
-  previous: [
-    {
-      role: "Software Development Intern",
-      company: "Unacademy",
-      period: "March 2024 - Dec 2024"
-    },
-    {
-      role: "Software Engineer Intern",
-      company: "Academor",
-      period: "Jan 2024 - March 2024"
-    }
-  ]
-};
+<details>
+<summary><b>Current Role</b></summary>
+<div>
+  
+  **Frontend Software Engineer** @ Unacademy  
+  *Jan 2025 - Present*
+  
+</div>
+</details>
 
+<details>
+<summary><b>Previous Roles</b></summary>
+<div>
+  
+  **Software Development Intern** @ Unacademy  
+  *March 2024 - Dec 2024*
+  
+  **Software Engineer Intern** @ Academor  
+  *Jan 2024 - March 2024*
+  
+</div>
+</details>
 🛠️ Tech Arsenal
 <div align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
