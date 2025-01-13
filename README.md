@@ -14,7 +14,7 @@
 ## 💼 Professional Journey
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF71CE&center=true&vCenter=true&width=435&lines=Frontend+Software+Engineer+%40+Unacademy;Jan+2025+-+Present" alt="Current Role"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF71CE&center=true&vCenter=true&width=435&lines=frontend+Software+Engineer+%40+Unacademy;Jan+2025+-+Present" alt="Current Role"/>
 </div>
 
 <div align="center">
