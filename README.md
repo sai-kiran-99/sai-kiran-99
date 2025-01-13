@@ -13,7 +13,11 @@
 
 ## 💼 Professional Journey
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" alt="coding-gif">
+</div>
 
+```js
 const journey = {
   current: {
     role: "Frontend Software Engineer",
@@ -33,7 +37,6 @@ const journey = {
     }
   ]
 };
-
 
 🛠️ Tech Arsenal
 <div align="center">
