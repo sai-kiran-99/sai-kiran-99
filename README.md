@@ -73,7 +73,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-kiran-99&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact&bg_color=0D1117&border_color=FFD700" alt="Top Languages" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sai-kiran-99&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact&bg_color=0D1117&border_color=FFD700" alt="Top Languages" />
 </div>
 
 <br/>
@@ -85,9 +85,9 @@
 <br/>
 
 <div align="center">
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=sai-kiran-99&theme=radical&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&bg_color=0D1117&border_color=FFD700" alt="GitHub Stats"/>
+  <img width="49%" height="180px" src="https://github-readme-stats-salesp07.vercel.app/api?username=sai-kiran-99&theme=radical&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&bg_color=0D1117&border_color=FFD700" alt="GitHub Stats"/>
   
-  <img width="49%" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=sai-kiran-99&theme=radical&hide_border=false&border=FFD700&background=0D1117&stroke=FFD700&ring=FF6B6B&fire=FFA500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&dates=888888" alt="GitHub Streak"/>
+  <img width="49%" height="180px" src="https://streak-stats.demolab.com/?user=sai-kiran-99&theme=radical&hide_border=false&border=FFD700&background=0D1117&stroke=FFD700&ring=FF6B6B&fire=FFA500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&dates=888888" alt="GitHub Streak"/>
 </div>
 
 ## 🤝 Connect With Me
