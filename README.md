@@ -73,21 +73,24 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-kiran-99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&border_color=FFD700&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sai-kiran-99&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact&bg_color=0D1117&border_color=FFD700" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sai-kiran-99&theme=radical&row=1&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sai-kiran-99&theme=radical&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=sai-kiran-99&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=FFD700" alt="GitHub Stats"/>
-  <img width="49%" height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=sai-kiran-99&theme=dark&background=0D1117&border=FFD700&stroke=FFD700&ring=FF6B6B&fire=FFA500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&dates=888888&hide_border=false" alt="GitHub Streak"/>
+  <img width="49%" height="180px" src="https://github-readme-stats-salesp07.vercel.app/api?username=sai-kiran-99&theme=radical&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&bg_color=0D1117&border_color=FFD700" alt="GitHub Stats"/>
+  
+  <img width="49%" height="180px" src="https://streak-stats.demolab.com/?user=sai-kiran-99&theme=radical&hide_border=false&border=FFD700&background=0D1117&stroke=FFD700&ring=FF6B6B&fire=FFA500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&dates=888888" alt="GitHub Streak"/>
 </div>
+
+
 ## 🤝 Connect With Me
 
 <div align="center">
