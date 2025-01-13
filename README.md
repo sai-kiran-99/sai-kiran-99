@@ -13,28 +13,35 @@
 
 ## 💼 Professional Journey
 
-<details>
-<summary><b>Current Role</b></summary>
-<div>
-  
-  **Frontend Software Engineer** @ Unacademy  
-  *Jan 2025 - Present*
-  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" alt="coding-gif">
 </div>
-</details>
 
-<details>
-<summary><b>Previous Roles</b></summary>
-<div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF71CE&center=true&vCenter=true&width=435&lines=Frontend+Software+Engineer+%40+Unacademy;Jan+2025+-+Present" alt="Current Role"/>
+</div>
+
+<div align="center">
   
-  **Software Development Intern** @ Unacademy  
-  *March 2024 - Dec 2024*
+  <a href="#"><img src="https://img.shields.io/badge/Previous%20Role%201-Software%20Development%20Intern%20@%20Unacademy-FF71CE?style=for-the-badge&labelColor=black" /></a>
   
-  **Software Engineer Intern** @ Academor  
-  *Jan 2024 - March 2024*
+  <a href="#"><img src="https://img.shields.io/badge/Duration-March%202024%20--%20Dec%202024-06D6A0?style=for-the-badge&labelColor=black" /></a>
+  
+  <br/>
+  
+  <a href="#"><img src="https://img.shields.io/badge/Previous%20Role%202-Software%20Engineer%20Intern%20@%20Academor-FF71CE?style=for-the-badge&labelColor=black" /></a>
+  
+  <a href="#"><img src="https://img.shields.io/badge/Duration-Jan%202024%20--%20March%202024-06D6A0?style=for-the-badge&labelColor=black" /></a>
   
 </div>
-</details>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06D6A0&center=true&vCenter=true&width=435&lines=1%2B+Years+of+Experience;Full+Stack+Development;React+%7C+Node.js+%7C+TypeScript" alt="Experience"/>
+</div>
+
+
 🛠️ Tech Arsenal
 <div align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
