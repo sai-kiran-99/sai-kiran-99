@@ -1,4 +1,227 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Sai+Kiran+Madala+%F0%9F%91%8B;Full-Stack+Software+Engineer;Building+Scalable+Web+Solutions" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sai-kiran-99&label=Profile%20Views&color=2F80ED&style=flat-square" alt="profile-views" />
+  <img src="https://img.shields.io/github/followers/sai-kiran-99?label=Followers&style=flat-square&color=2F80ED" alt="followers-count">
+  <a href="https://sai-s-portfolio-two.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-2F80ED?style=flat-square" alt="portfolio">
+  </a>
+</p>
+
+<br/>
+
+<div align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding-gif">
+</div>
+
+## 💼 Professional Journey
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=2000&pause=1000&color=27AE60&center=true&vCenter=true&width=500&lines=Frontend+Software+Engineer+%40+Unacademy;January+2025+-+Present;Open+to+New+Opportunities+%F0%9F%9A%80" alt="Current Role"/>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🎯_Current-Frontend_Engineer_@_Unacademy-27AE60?style=for-the-badge&labelColor=FFFFFF&color=27AE60" />
+        <br><sub><b>Jan 2025 - Present</b></sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/📈_Previous-SDE_Intern_@_Unacademy-9B59B6?style=for-the-badge&labelColor=FFFFFF&color=9B59B6" />
+        <br><sub><b>Mar 2024 - Dec 2024</b></sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🚀_Experience-1.5+_Years-F39C12?style=for-the-badge&labelColor=FFFFFF&color=F39C12" />
+        <br><sub><b>Full-Stack Development</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🚀 Current Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <div>
+          <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="50">
+          <h3>🛫 Bajrang Flights</h3>
+          <p><em>MERN Stack Flight Booking Platform</em></p>
+          <br/>
+          <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express" />
+          <br/><br/>
+          <p>✈️ Real-time flight search with Amadeus API</p>
+          <p>💳 Secure payment processing with Stripe</p>
+          <p>📧 Automated email notifications</p>
+          <p>🎫 Digital ticket generation</p>
+        </div>
+      </td>
+      <td align="center" width="50%">
+        <div>
+          <img src="https://user-images.githubusercontent.com/74038190/229223204-1b8a1b66-3617-4e44-9e21-ac6814d8f5e0.gif" width="50">
+          <h3>🏛️ Constituency Portal</h3>
+          <p><em>Government Services Platform</em></p>
+          <br/>
+          <img src="https://skillicons.dev/icons?i=react,typescript,express,mysql" />
+          <br/><br/>
+          <p>🏛️ Citizen services management</p>
+          <p>📊 Data visualization dashboard</p>
+          <p>🔐 Role-based access control</p>
+          <p>📱 Responsive admin interface</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🛠️ Technical Expertise
+
+<div align="center">
+  <h3>Frontend Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,sass" />
+  <br/><br/>
+  
+  <h3>Backend & Database</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,java" />
+  <br/><br/>
+  
+  <h3>Tools & Platforms</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🎯 Professional Skills
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="60">
+        <br/><b>Full-Stack Development</b>
+        <br/><sub>MERN Stack Specialist</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/229223217-e8dc8782-9c3e-4c8d-9a4b-b0b0dfb0c2f0.gif" width="60">
+        <br/><b>System Architecture</b>
+        <br/><sub>Scalable Solutions</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/229223344-b6e8369a-f9fd-4c6a-9012-42c02b7dd94a.gif" width="60">
+        <br/><b>API Development</b>
+        <br/><sub>RESTful Services</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/229223137-7ae2a43f-e23f-473e-8d1c-b9c8e58c2c62.gif" width="60">
+        <br/><b>Performance</b>
+        <br/><sub>Optimization Expert</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-vercel-murex-sigma.vercel.app/api?username=sai-kiran-99&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=2F80ED&icon_color=27AE60&text_color=FFFFFF&border_color=30363d"/>
+  <img height="180em" src="https://github-readme-stats-vercel-murex-sigma.vercel.app/api/top-langs/?username=sai-kiran-99&layout=compact&langs_count=8&theme=github_dark&bg_color=0d1117&title_color=2F80ED&text_color=FFFFFF&border_color=30363d"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-kiran-99&theme=github_dark_blue&background=0d1117&border=30363d&stroke=2F80ED&ring=27AE60&fire=F39C12" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sai-kiran-99&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🌟 Professional Highlights
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/⭐_1.5+_Years-Experience-2F80ED?style=for-the-badge&labelColor=FFFFFF" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🚀_MERN_Stack-Expert-27AE60?style=for-the-badge&labelColor=FFFFFF" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/💼_Production-Ready_Apps-9B59B6?style=for-the-badge&labelColor=FFFFFF" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🔧_System-Design-F39C12?style=for-the-badge&labelColor=FFFFFF" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🌐_API-Integration-E74C3C?style=for-the-badge&labelColor=FFFFFF" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📱_Responsive-Design-8E44AD?style=for-the-badge&labelColor=FFFFFF" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  <a href="https://sai-s-portfolio-two.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Explore_My_Work-2F80ED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FFFFFF" alt="Portfolio"/>
+  </a>
+  <br/><br/>
+  
+  <a href="mailto:madhalakiran9999@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Let's_Connect-E74C3C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFFFFF" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/sai-kiran-madala">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FFFFFF" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.leetcode.com/sai_kiran99">
+    <img src="https://img.shields.io/badge/🧠_LeetCode-Problem_Solving-F39C12?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFFFFF" alt="LeetCode"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=3000&pause=1000&color=27AE60&center=true&vCenter=true&width=600&lines=💼+Open+to+Full-Time+Opportunities;🤝+Available+for+Freelance+Projects;📧+Always+Ready+to+Collaborate" alt="Availability"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213760703-d42c6808-90a8-4ee1-8e10-aa233a8c0e60.gif" width="30">
+  <strong>Thank you for visiting! Feel free to star ⭐ repositories you find interesting!</strong>
+  <img src="https://user-images.githubusercontent.com/74038190/213760703-d42c6808-90a8-4ee1-8e10-aa233a8c0e60.gif" width="30">
+</div>
+
+<!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=535&lines=Hi+%F0%9F%91%8B+I'm+Sai+Kiran+Madala;Full-Stack+Software+Engineer;" alt="Typing SVG" />
 </div>
 
@@ -314,4 +537,4 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div> -->
+</div> --> -->
