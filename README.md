@@ -109,10 +109,6 @@ Frontend engineer with **2.5+ years** shipping production features at **Unacadem
 <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="49%" />
 <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" width="49%" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-kiran-99&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity" width="100%" />
-
 </div>
 
 ## 🌱 Currently
